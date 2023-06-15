@@ -156,7 +156,6 @@
     </div>
     
 
-
     
     <input type="submit" value="Calculate">
   </form>
